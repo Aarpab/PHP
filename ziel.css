@@ -1,0 +1,15 @@
+#hochladen {
+    margin-top: 10px;
+}
+
+#löschen {
+    background-color: #aaa;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#löschen:hover {
+    background-color: #777;
+    border-color: #aaa;
+}

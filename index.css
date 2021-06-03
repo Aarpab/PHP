@@ -1,0 +1,15 @@
+#link {
+    background-color: #aaa;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#div1 {
+    margin-top: 4px;
+}
+
+#link:hover {
+    background-color: #777;
+    border-color: #aaa;
+}
